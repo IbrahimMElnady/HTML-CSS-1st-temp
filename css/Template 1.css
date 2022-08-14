@@ -90,6 +90,10 @@ Large */
     .special-heading {
         font-size: 60px;
     }
+    @media (min-width:375px)and(max-width:812px) {
+  body {
+        margin:0;
+    }
 
     .special-heading+p {
         margin-top: -20px;
