@@ -92,7 +92,7 @@ Large */
     }
     @media (min-width:375px)and(max-width:812px) {
   body {
-        margin:0;
+        margin:-1px;
     }
 
     .special-heading+p {
